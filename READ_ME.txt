@@ -5,6 +5,7 @@ Course: CPE 301.1001 Embedded Systems
 Professor: Dr. Bashria Akter Anima  
 Date: 5/9/2025  
 
+DEMONSTRATION VIDEO IS TOO LONG TO UPLOAD TO GITHUB
 
 This project is a real-time environmental control system that monitors temperature, humidity, and water level using multiple sensors and controls a fan and stepper motor to simulate a swamp cooler or venting system.
 
